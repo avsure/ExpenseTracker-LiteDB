@@ -22,7 +22,7 @@ LINQ queries, indexing, multi-key fields, BSON documents all inside a simple con
 
 Clone the repo:
 
-git clone https://github.com/<your-username>/ExpenseTracker-LiteDB.git
+git clone https://github.com/avsure/ExpenseTracker-LiteDB.git
 cd ExpenseTracker-LiteDB
 
 Build and run:
